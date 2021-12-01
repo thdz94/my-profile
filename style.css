@@ -1,0 +1,76 @@
+body {
+	background-color: #675424;
+	color: ;
+	font-family: helvetica;
+ }
+
+a{
+text-decoration: none;
+color black ;
+}
+
+h1 {
+	color: #675424;
+	font-family: 'Bebas Neue';
+	font-size: 40px;
+	letter-spacing: 3px;
+
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+
+
+
+image {
+	width: 200px
+}
+
+
+
+h2 {
+	font-family: "Lato", lukasz dsiedzic;
+	font-size:30px;
+	color: #E6D67E;
+}
+
+body {
+	font-size: 19px;
+	font-family: monospace;
+	font-weight: 500;
+	line-height: 1.8
+}
+
+.card {
+	text-align: center;
+background-color: #E6D67E;
+padding: 30px;
+margin: 40px;
+box-shadow: 0 10px 10px;
+
+
+}
+
+
+.container {
+	width: 1300px;
+	margin: 40px auto;
+
+	background-color: #675424;
+}
+
+
+
+@media (max-width: 760px) {
+.container {
+	width: 600px;
+
+
+     }
+ }
+
+
+
+
